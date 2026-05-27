@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Flutter tech and meet"
+title:  "Flutter Tech and Meet"
 date:   2025-11-05 09:28:24 +0200
 categories: Tech and Meet
 custom_css: "/assets/css/main.css"
