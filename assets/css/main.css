@@ -6,5 +6,5 @@ p:first-child img {
 img {
     width: 50%;
     margin-left: 25%;
-    border-radius: 1rem;
+    border-radius: 0.5rem;
 }
