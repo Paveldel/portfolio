@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hackathon Liège"
-date:   2025-11-12 09:28:24 +0200
+date:   2025-04-13 09:28:24 +0200
 categories: Hackathon
 custom_css: "/assets/css/main.css"
 ---
