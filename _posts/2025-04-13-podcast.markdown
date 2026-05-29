@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Podcast Start to flutter"
+date:   2026-05-28 09:28:24 +0200
+categories: Podcast
+custom_css: "/assets/css/main.css"
+---
+
+![Banner for flutter]({% link assets/podcast/flutter.webp %})
+
+Tijdens onze richting kregen we de kans om onze eigen aflevering op te nemen voor de Howest IT Student Podcast. Tijdens de podcast analyseren studenten van de IT richtingen op Howest een technologisch onderwerp met behulp van een expert. Elk van deze podcasts kan je beluisteren op de [Howest spotify](https://open.spotify.com/show/7HVRINnrOMwIpJrvJMojTx).
+
+Na de tech en meet over flutter kregen Matse en ik de kriebels om meer bij te leren over het onderwerp. We werden zo aangeraden om ons toe te voegen aan de Flutter Belgium groep voor meer info. Wanneer de tijd kwam voor een podcast te maken, omarmden we de kans om de symatieke leden van Flutter Belgium te vragen om hulp. Het duurde niet lang voor we een expert in het onderwerp klaar was om ons te onderstuenen.
+
+William Verhaeghe is een expert in flutter, het lukte ons om met hem af te spreken digitaal een podcast op te nemen waar we al onze prangende vragen te stellen, hij hielp ons verder flutter te leren kennen en vertelde ons ook meer over de geschiedenis van flutter. Alle details over het technische, de populariteit, voor- en nadelen kwamen snel naar voor op een duidelijke en gestructureerde manier.
+
+Na wat editting was de podcast klaar en ingeleverd voor de Howest IT Student Podcast. Sinds vandaag staat de aflevering ook live. [hier](https://open.spotify.com/episode/0R0HkgdPpLd18kEHz2Ird3?si=KWKdxaPCQ6G6QfGRVTv4kQ&nd=1&dlsi=8faf477c54e24725) kan je alle sappige details beluisteren in onze eigen aflevering: "Start To Flutter".
+
+Hartelijk dank aan William Verhaeghe om ons te begeleiden door het landschap van flutter en aan mijn medestudent Matse De Deyn om de podcast samen met mij op te nemen.
+
+![Screenshot from our episode on spotify]({% link assets/podcast/podcast.webp %})
