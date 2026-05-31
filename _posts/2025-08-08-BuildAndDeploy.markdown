@@ -3,6 +3,7 @@ layout: post
 title:  "Build and Deploy"
 date:   2025-07-08 09:28:24 +0200
 categories: Project
+tags: [project]
 custom_css: "/assets/css/main.css"
 ---
 

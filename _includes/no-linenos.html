@@ -1,0 +1,9 @@
+{% comment %}
+  Remove HTML line numbers from code snippets for search indexing
+{% endcomment %}
+
+{% assign content = include.content
+  | replace: '<div class="highlight"><pre class="highlight"><code>', '<pre><code>'
+  | replace: '</code></pre></div>', '</code></pre>'
+  | replace: '<span class="lineno">', '<span>'
+%}
