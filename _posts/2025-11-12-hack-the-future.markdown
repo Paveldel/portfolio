@@ -4,7 +4,6 @@ title:  "Hack The Future"
 date:   2025-11-12 09:28:24 +0200
 categories: Hackathon
 tags: [hackathon]
-custom_css: "/assets/css/main.css"
 ---
 
 ![Picture of the venue where hack the future took place]({% link assets/htf/venue.webp %})

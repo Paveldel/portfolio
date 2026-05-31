@@ -4,7 +4,6 @@ title:  "Podcast Start to flutter"
 date:   2026-05-28 09:28:24 +0200
 categories: Podcast
 tags: [podcast, flutter]
-custom_css: "/assets/css/main.css"
 ---
 
 ![Banner for flutter]({% link assets/podcast/flutter.webp %})

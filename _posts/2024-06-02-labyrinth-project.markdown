@@ -4,7 +4,6 @@ title:  "Het betoverde doolhof"
 date:   2024-06-02 09:28:24 +0200
 categories: Project
 tags: [project]
-custom_css: "/assets/css/main.css"
 ---
 
 ![Picture of the end result of our project]({% link assets/labyrinth/game.webp %})

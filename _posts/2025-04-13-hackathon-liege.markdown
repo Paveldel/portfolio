@@ -4,7 +4,6 @@ title:  "Hackathon Liège"
 date:   2025-04-13 09:28:24 +0200
 categories: Hackathon
 tags: [hackathon]
-custom_css: "/assets/css/main.css"
 ---
 
 ![On the podium with my team]({% link assets/liege/winshot.webp %})

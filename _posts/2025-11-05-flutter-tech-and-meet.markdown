@@ -4,7 +4,6 @@ title:  "Flutter Tech and Meet"
 date:   2025-11-05 09:28:24 +0200
 categories: Tech and Meet
 tags: [flutter, tech-and-meet]
-custom_css: "/assets/css/main.css"
 ---
 
 ![group picture of us after the tech and meet]({% link assets/flutter/group.webp %})

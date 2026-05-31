@@ -4,7 +4,6 @@ title:  "Adria project"
 date:   2025-01-15 09:28:24 +0200
 categories: Project
 tags: [project]
-custom_css: "/assets/css/main.css"
 ---
 
 ![The logo we used for exploradria]({% link assets/adria/logo.webp %})
