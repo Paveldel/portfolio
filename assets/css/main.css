@@ -8,3 +8,11 @@ img {
     margin-left: 25%;
     border-radius: 0.5rem;
 }
+
+@media print {
+  a::after {
+    content: " (" attr(href) ")";
+    font-size: smaller;
+    text-decoration: none;
+  }
+}
