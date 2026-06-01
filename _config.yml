@@ -18,8 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+lang: nl
+
 title: Portfolio Pavel
-tagline: Professional Portfolio & Blog
+tagline: Professionele Portfolio & Blog
 email: pavel.deleersnyder@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My portfolio site, designed for the OLOD professional networking

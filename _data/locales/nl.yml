@@ -1,0 +1,97 @@
+# Dutch locale for Chirpy theme
+
+# Layout
+layout:
+  post: Post
+  category: Categorie
+  tag: Tag
+
+# Date format
+date_format:
+  tooltip: "%a, %b %e, %Y, %l:%M %p %z"
+  post: "%b %-d, %Y"
+  archives: "%b"
+
+# Categories
+categories: Categorieën
+
+# Tags
+tags: Tags
+
+# Tabs
+tabs:
+  home: Home
+  archives: Archieven
+  categories: Categorieën
+  tags: Tags
+  about: Over
+
+# Text strings
+# Panel
+panel:
+  lastmod: Recent Bijgewerkt
+  trending_tags: Tags
+  toc: Inhoudsopgave
+
+# Post
+post:
+  words: woorden
+  pageview_measure: views
+  read_time:
+    unit: min
+    prompt: lezen
+  relate_posts: Gerelateerde Posts
+  share: Delen
+  button:
+    next: Nieuwer
+    previous: Ouder
+    copy_code:
+      succeed: Gekopieerd!
+    share_link:
+      title: Link kopiëren
+      succeed: Link succesvol gekopieerd!
+  pin_prompt: Vastgepind
+  published: Gepubliceerd op
+  updated: Bijgewerkt op
+
+# Archives
+archives:
+  zero: Post
+  one: Post
+  other: Posts
+
+# Search
+search:
+  hint: Zoeken
+  cancel: Annuleren
+  no_results: Oeps! Geen resultaten gevonden.
+
+# Footer
+footer:
+  license:
+    template: Dit werk valt onder de :LICENSE_NAME licentie.
+    template_link: Dit werk valt onder de <a href=":URL">:LICENSE_NAME</a> licentie.
+  powered_by: Mogelijk gemaakt door <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a> & <a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a>
+
+# 404 page
+not_found:
+  title: "404: Pagina Niet Gevonden"
+  description: Sorry, we hebben het verkeerde pad gevolgd.
+
+# Notification
+notification:
+  update_found: Er is een nieuwe versie van de inhoud beschikbaar.
+  update: Bijwerken
+
+# Share
+share:
+  twitter: Twitter
+  facebook: Facebook
+  telegram: Telegram
+  linkedin: LinkedIn
+  reddit: Reddit
+  weibo: Weibo
+  mastodon: Mastodon
+
+# Other
+meta: Met behulp van de :PLATFORM thema :THEME.
