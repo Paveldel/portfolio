@@ -6,7 +6,7 @@ categories: Podcast
 tags: [podcast, flutter]
 ---
 
-![Banner for flutter]({% link assets/podcast/flutter.webp %})
+![Banner for flutter](/assets/podcast/flutter.webp)
 
 Tijdens onze richting kregen we de kans om onze eigen aflevering op te nemen voor de Howest IT Student Podcast. Tijdens de podcast analyseren studenten van de IT richtingen op Howest een technologisch onderwerp met behulp van een expert. Elk van deze podcasts kan je beluisteren op de [Howest spotify](https://open.spotify.com/show/7HVRINnrOMwIpJrvJMojTx).
 
@@ -18,4 +18,4 @@ Na wat editting was de podcast klaar en ingeleverd voor de Howest IT Student Pod
 
 Hartelijk dank aan William Verhaeghe om ons te begeleiden door het landschap van flutter en aan mijn medestudent Matse De Deyn om de podcast samen met mij op te nemen.
 
-![Screenshot from our episode on spotify]({% link assets/podcast/podcast.webp %})
+![Screenshot from our episode on spotify](/assets/podcast/podcast.webp)

@@ -6,7 +6,7 @@ categories: Tech and Meet
 tags: [tech-and-meet]
 ---
 
-![The intro slide to the IPv6 meetup]({% link assets/ipvsix/bigscreen.webp %})
+![The intro slide to the IPv6 meetup](/assets/ipvsix/bigscreen.webp)
 
 De IPv6 Tech and Meet van Howest vond vandaag plaats. Dit is een soort tech talk georganiseerd door Howest rond een technologisch onderwerp voor studenten, lectoren en mensen uit de IT-sector. De presentatie van vandaag draaide rond de overschakeling naar IPv6, iets wat volgens velen eigenlijk al veel eerder had moeten gebeuren.
 
@@ -22,4 +22,4 @@ SaaS staat normaal gezien voor “Software as a Service”, maar in de context v
 
 Het was uiteindelijk een zeer interessante en aangename avond, met een passend einde waarbij we de vele weetjes over Brugse Zot meteen konden testen aan de bar.
 
-![Nico talking about ipv6]({% link assets/ipvsix/during.webp %})
+![Nico talking about ipv6](/assets/ipvsix/during.webp)

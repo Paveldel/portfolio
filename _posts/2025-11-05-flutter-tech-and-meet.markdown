@@ -6,11 +6,11 @@ categories: Tech and Meet
 tags: [flutter, tech-and-meet]
 ---
 
-![group picture of us after the tech and meet]({% link assets/flutter/group.webp %})
+![group picture of us after the tech and meet](/assets/flutter/group.webp)
 
 Vandaag ben ik naar een Tech and Meet geweest. Dit zijn evenementen die door Howest worden georganiseerd voor IT-studenten, docenten en professionals uit de IT-sector. Elke Tech and Meet focust op een specifiek onderwerp, en deze editie draaide volledig rond Flutter.
 
-![Sign for flutter tech and meet]({% link assets/flutter/sign.webp %})
+![Sign for flutter tech and meet](/assets/flutter/sign.webp)
 
 Flutter is een platformonafhankelijk framework voor het ontwikkelen van applicaties. Het wordt vooral gebruikt voor mobiele ontwikkeling. Bij het maken van mobiele apps is het historisch gezien vaak moeilijk om Android- en Apple-versies consistent te houden. Flutter biedt hiervoor een grote meerwaarde, omdat je met dezelfde codebase eenvoudig een applicatie kan ontwikkelen voor beide platformen.
 
@@ -24,4 +24,4 @@ Ten slotte vertelde Thijs ons ook meer over andere interessante mogelijkheden bi
 
 De Tech and Meet was een zeer interessante ervaring. Dankzij de enthousiaste en entertainende presentatie van Thijs heb ik veel bijgeleerd over een framework waar ik voorheen nog weinig kennis over had.
 
-![Thijs pirmez getting help from patrick for setup]({% link assets/flutter/presentation.webp %})
+![Thijs pirmez getting help from patrick for setup](/assets/flutter/presentation.webp)

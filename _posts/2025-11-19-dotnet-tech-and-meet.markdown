@@ -6,7 +6,7 @@ categories: Tech and Meet
 tags: [tech-and-meet]
 ---
 
-![picture of me in front of the screen]({% link assets/net/screen.webp %})
+![picture of me in front of the screen](/assets/net/screen.webp)
 
 Vandaag ben ik naar een Tech & Meet geweest, een soort talk binnen Howest rond een technologisch onderwerp voor IT-studenten, lectoren en mensen uit het werkveld. Deze editie ging over de nieuwste versie van .NET.
 
@@ -24,4 +24,4 @@ Een groot deel van de demo ging daarnaast over de nieuwe features in C# 14, dat 
 
 De hele Tech & Meet vloog eigenlijk voorbij, deels omdat Kevin blijkbaar graag de voetbalmatch wilde volgen die kort na de sessie begon. Toch hield dat ons niet tegen om nog mee te doen aan een quiz over de inhoud van de presentatie, waarbij je prijzen van Microsoft kon winnen. Helaas ben ik er niet in geslaagd om een van de prijzen mee naar huis te nemen.
 
-![Giving chips to mr. tack]({% link assets/net/chips.webp %})
+![Giving chips to mr. tack](/assets/net/chips.webp)

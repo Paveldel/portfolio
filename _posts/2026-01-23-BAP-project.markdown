@@ -6,7 +6,7 @@ categories: Project
 tags: [project]
 ---
 
-![Picture of the gameplay, where different cards are visible]({% link assets/ironclad/game.webp %})
+![Picture of the gameplay, where different cards are visible](/assets/ironclad/game.webp)
 
 Binnen de opleiding Toegepaste Informatica doen we in het laatste jaar iets bijzonders. In de meeste richtingen wordt de bachelorproef pas in het laatste semester afgewerkt, zodat studenten eraan kunnen werken tijdens hun stage. Bij ons lag dat anders: wij maakten onze bachelorproef al tijdens het vijfde semester. Daarin schreven we over het grote Software Engineering-project (SE-project) dat we in dezelfde periode uitvoerden.
 
@@ -20,4 +20,4 @@ Al het onderzoek dat we tijdens het project uitvoerden, documenteerden we in onz
 
 Het project was bijzonder leuk om uit te werken. Er is iets speciaals aan het ontwikkelen van een game in vergelijking met traditionele software. Het SE-project bood ons een laatste kans binnen Howest om zo'n ambitieus gameproject te realiseren, en dat maakte de ervaring des te waardevoller.
 
-![Logo we conceptualized for the game]({% link assets/ironclad/logo.webp %})
+![Logo we conceptualized for the game](/assets/ironclad/logo.webp)

@@ -6,7 +6,7 @@ categories: Project
 tags: [project]
 ---
 
-![The logo we used for exploradria]({% link assets/adria/logo.webp %})
+![The logo we used for exploradria](/assets/adria/logo.webp)
 
 In ons derde semester vond er een uniek project plaats aan Howest. Dit project kreeg de naam Adria en verliep als volgt.
 
@@ -20,4 +20,4 @@ Ook op technisch vlak was het project voor ons erg uniek. Het was onze eerste ke
 
 Het was een zeer leerrijke ervaring om te zien hoe informatica samenkomt met bedrijfskunde, ook al was dat niet mijn sterkste punt. Toch ben ik trots op het resultaat dat we als team hebben bereikt, en ben ik erg dankbaar voor mijn teamleden, die uitzonderlijk werk hebben geleverd voor ons project.
 
-![Picture of different layered maps like a GIS]({% link assets/adria/maps.webp %})
+![Picture of different layered maps like a GIS](/assets/adria/maps.webp)

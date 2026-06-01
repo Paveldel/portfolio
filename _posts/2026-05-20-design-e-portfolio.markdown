@@ -6,7 +6,7 @@ categories: Project
 tags: [portfolio]
 ---
 
-![Recursive picture of this blog post]({% link assets/portfolio/recursion.webp %})
+![Recursive picture of this blog post](/assets/portfolio/recursion.webp)
 
 Het doel van deze e-portfolio is om een beeld te geven van wie ik ben, wat mijn interesses zijn en welke ervaringen ik al heb opgedaan. Een e-portfolio kan echter op veel verschillende manieren worden ontworpen. In deze post wil ik kort toelichten hoe ik deze website heb opgebouwd en waarom ik voor deze aanpak heb gekozen.
 

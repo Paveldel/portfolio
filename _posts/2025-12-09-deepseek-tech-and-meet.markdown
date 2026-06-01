@@ -6,7 +6,7 @@ categories: Tech and Meet
 tags: [tech-and-meet]
 ---
 
-![picture our lecturer Dimitri talking to the audience]({% link assets/deepseek/talking.webp %})
+![picture our lecturer Dimitri talking to the audience](/assets/deepseek/talking.webp)
 
 Vandaag was er opnieuw een Tech & Meet, deze keer over niemand minder dan de underdog van de LLM-markt: DeepSeek. Onze lector, Dimitri Casier, vertelde ons alles over het Chinese AI-model waar momenteel heel wat grote technologiebedrijven hun ogen op gericht hebben.
 
@@ -16,7 +16,7 @@ DeepSeek is een LLM-model, vergelijkbaar met GPT-5, Gemini of de Claude-modellen
 
 DeepSeek is afkomstig uit China, wat meteen ook enkele uitdagingen met zich meebracht. Door de strenge beperkingen op de verkoop van krachtige hardware aan China verliep het trainen van zulke modellen niet vanzelfsprekend. Toch slaagde Liang Wenfeng erin om een krachtig model te ontwikkelen met moderne technieken zoals Mixture of Experts en reasoning-modellen. Net door die hardwarebeperkingen is DeepSeek vandaag een van de meest efficiënte modellen op de markt, een perfect voorbeeld van het gezegde: “necessity is the mother of invention”.
 
-![picture depicting the rivalry between DeepSeek and OpenAI]({% link assets/deepseek/overview.webp %})
+![picture depicting the rivalry between DeepSeek and OpenAI](/assets/deepseek/overview.webp)
 
 Net zoals Ishmael uit het toepasselijke boek Moby Dick slaagde DeepSeek erin om grenzen te verleggen waar niemand het mogelijk achtte. Het groeide in korte tijd uit tot een bekende naam tussen de andere populaire LLM’s.
 
@@ -24,4 +24,4 @@ Voor mensen die nog twijfels hebben over het gebruik van een Chinees model, bijv
 
 Als afsluiter gaf Dimitri nog een demo die de echte kracht van DeepSeek liet zien. Via Ollama gebruikte hij het krachtigste reasoning-model van DeepSeek om een wiskundig probleem op te lossen. Het was indrukwekkend om de LLM live te zien “nadenken” en stap voor stap tot een oplossing te komen. Toen het model uiteindelijk het correcte antwoord gaf, kreeg je echt een beeld van wat er allemaal achter de schermen gebeurt bij moderne AI-systemen.
 
-![picture of matse, excited for the tech and meet]({% link assets/deepseek/matse.webp %})
+![picture of matse, excited for the tech and meet](/assets/deepseek/matse.webp)

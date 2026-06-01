@@ -6,7 +6,7 @@ categories: Project
 tags: [project]
 ---
 
-![Picture of the different services we worked out]({% link assets/BnD/layout.webp %})
+![Picture of the different services we worked out](/assets/BnD/layout.webp)
 
 In het vierde semester kregen we opnieuw een groot project voorgeschoteld. Deze keer waren er geen aparte projectweken tussen de lessen door. In plaats daarvan kregen we eerst alle lessen van het semester, waarna we voltijds aan het project konden werken. Het project telde bovendien niet mee voor één vak, maar voor onderdelen van vier verschillende vakken binnen het semester.
 
@@ -22,4 +22,4 @@ Ik kreeg ook de kans om het project voor te stellen aan de werkveldcommissie. Da
 
 Hoewel het volledige project behoorlijk intensief was, vond ik het verrassend aangenaam om eraan te werken. Ook het afleggen van mondelinge examens in plaats van schriftelijke of digitale examens voelde verfrissend aan.
 
-![Screenshot of the backoffice webapplication we made]({% link assets/BnD/backoffice.webp %})
+![Screenshot of the backoffice webapplication we made](/assets/BnD/backoffice.webp)
